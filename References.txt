@@ -1,0 +1,20 @@
+These are not all the resources I used
+
+Datasets:
+https://www.kaggle.com/competitions/digit-recognizer
+https://www.kaggle.com/datasets/zalando-research/fashionmnist
+
+Books: 
+Mathmatics for Machine Learning A. Aldo Faisal, Cheng Soon Ong, and Marc Peter Deisenroth
+Deep Learning from Scratch: Building with Python from First Principles Seth Weirdman
+Neural Networks from Scratch in Python Harrison Kinsley & Daniel Kukieła
+
+Videos: These are series 
+https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
+https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr
+https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
+
+Weblinks:
+http://neuralnetworksanddeeplearning.com/
+http://cs231n.stanford.edu/
+https://www.tensorflow.org/datasets/catalog/mnist
