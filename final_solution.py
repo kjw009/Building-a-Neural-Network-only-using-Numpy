@@ -4,9 +4,9 @@ import numpy as np
 import os 
 
 # Import NN classes
-from layer_dense import *
-from cost_functions import *
-from optimisers import *
+from neuralNetworkClasses.layer_dense import *
+from neuralNetworkClasses.cost_functions import *
+from neuralNetworkClasses.optimisers import *
 
 # Read csv
 df = pd.read_csv('mnist_train.csv')
