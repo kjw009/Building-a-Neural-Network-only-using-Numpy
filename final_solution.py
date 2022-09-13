@@ -101,7 +101,7 @@ def results(df):
     
     # Get path to output cv
     cwd = os.getcwd()
-    path = cwd + "/submission"
+    path = cwd + "/submission.csv"
     
     # Add columns list to a results dictionary 
     results = {'ImageId' : image_id,
