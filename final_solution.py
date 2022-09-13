@@ -35,7 +35,7 @@ output_layer = LayerDense(10, 10)
 softmax_cost = ActivationSoftmaxCost()
 
 # Initiate optimiser object for back propagation 
-sgd = Optimizer_SGD(learning_rate=0.001 ,decay=1e-4, momentum=100)
+sgd = Optimizer_SGD(learning_rate=0.001 ,decay=1e-2, momentum=0.9)
 
 # Train in epochs. 501 iterations.
 for epoch in range(501):
